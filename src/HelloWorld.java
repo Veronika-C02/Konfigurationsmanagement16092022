@@ -11,7 +11,7 @@ public class HelloWorld {
         System.out.println("Zeile 11");
         System.out.println("Zeile 12");
         System.out.println("Zeile 13");
-        System.out.println("Zeile 14"); //STRG + D (Duplicate
+        System.out.println("Zeile 14"); //STRG + D (Duplicate)
 
     }
 }
